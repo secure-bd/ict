@@ -30,16 +30,15 @@ Land Office Madan:
 
 Atikul Islam (AC land Madan)
 
-ID: 	  100000017722
-Password: a17722
+	ID: 100000017722
+	Password: a17722
 
 
 Ashil mia gmail pass: a01732321218
 
-e-nothi id pas: 200000024511
-pass: a24511
-
-224511
+	e-nothi id pas: 200000024511
+	pass: a24511
+	224511
 
 -----------------------------------------
 ICT Office Madan
@@ -55,4 +54,4 @@ Live Server:
 	Password: Nopass1234
 
 Default Password:
-02522016 
+	02522016 
