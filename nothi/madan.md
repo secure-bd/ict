@@ -37,8 +37,7 @@ Atikul Islam (AC land Madan)
 Ashil mia gmail pass: a01732321218
 
 	e-nothi id pas: 200000024511
-	pass: a24511
-	224511
+	pass: a224511
 
 -----------------------------------------
 ICT Office Madan
